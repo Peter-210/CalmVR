@@ -8,17 +8,13 @@ Youtube Link: https://www.youtube.com/watch?v=IId3yLBu5CE
 
 ## Images
 
-### The Experience Within Calm VR
-![Scenery Front](https://github.com/Peter-210/CalmVR/blob/main/Images/sceneryFront.png?raw=true)
-
-### Environment Behind Player
-![Scenery Back](https://github.com/Peter-210/CalmVR/blob/main/Images/sceneryBack.png?raw=true)
-
-### Main Menu
-![Main Menu UI](https://github.com/Peter-210/CalmVR/blob/main/Images/mainMenu.png?raw=true)
-
-### Menu Controls
-![Menu Controls](https://github.com/Peter-210/CalmVR/blob/main/Images/menuControl.png?raw=true)
+<details>
+    <summary>Click here to view images within CalmVR</summary>
+    <img src="https://github.com/Peter-210/CalmVR/blob/main/Images/sceneryFront.png?raw=true" alt="Image of Experience Within Calm VR"/>
+    <img src="https://github.com/Peter-210/CalmVR/blob/main/Images/sceneryBack.png?raw=true" alt="Image of Environment Behind Player"/>
+    <img src="https://github.com/Peter-210/CalmVR/blob/main/Images/mainMenu.png?raw=true" alt="Image of Main Menu Interface"/>
+    <img src="https://github.com/Peter-210/CalmVR/blob/main/Images/menuControl.png?raw=true" alt="Image of Menu Controls"/>
+</details>
 
 ## ⚡ Inspiration
 We were inspired to make this VR app after seeing that there were very few apps in VR which were focused on immersion and calmness. Thus, we wanted to create something which would bring the incredible immersive power of VR in the domain of mental health and wellness.
